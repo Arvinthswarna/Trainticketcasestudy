@@ -1,0 +1,12 @@
+PNR          : BD_20221024_765
+Train No     : 1001
+Train Name   : ShatabdiExpress
+From         : Bangalore
+To           : Delhi
+Travel Date  : 2022-10-24
+
+Passengers:
+Name			Age			Gender			Fare
+raksha			15			M			2500.0
+sri			12			F			1250.0
+Total Price: 3750.0
