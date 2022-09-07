@@ -1,0 +1,11 @@
+PNR          : DB_20220920_337
+Train No     : 1002
+Train Name   : ShatabdiExpress
+From         : Delhi
+To           : Bangalore
+Travel Date  : 2022-09-20
+
+Passengers:
+Name			Age			Gender			Fare
+shruthi			23			F			625.0
+Total Price: 625.0
